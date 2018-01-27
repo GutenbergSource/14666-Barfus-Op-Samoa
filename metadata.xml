@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Op Samoa</dc:title>
+      <dc:creator>Eginhard von Barfus (1825–1909)</dc:creator>
+      <dc:creator>J. van der Hoeven</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2005-01-11</dc:publisher>
+      <dc:date>2005-01-11</dc:date>
+      <dc:rights>Publiek Domein; het auteursrecht op de oorspronkelijke tekst is verlopen; dit bestand mag vrijelijk gekopieerd worden.
+</dc:rights>
+      <dc:description>Op avontuur in het, toen nog, gedeeltelijk door de Duitsers bestuurde Samoa.</dc:description>
+      <dc:identifier>pg:14666</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
